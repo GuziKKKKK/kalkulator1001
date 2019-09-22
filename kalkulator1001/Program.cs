@@ -18,6 +18,7 @@ namespace kalkulator1001
                 Console.WriteLine("3. Mnozenie");
                 Console.WriteLine("4. Dzielenie");
                 Console.WriteLine("5. SQRT");
+                Console.WriteLine("5. Potegowanie");
 
 
                 int menuOption = Convert.ToInt16(Console.ReadLine());
